@@ -49,3 +49,6 @@ This step is the `embed` and `store` processes in `Indexing`. <br>
 In this step, you're taking the pieces of the story, your "chunks," converting the text into numbers, and making them easier for your computer to understand and remember by using a process called "embedding." Think of embedding like giving each chunk its own special code. This code helps the computer quickly find and recognize each chunk later on. 
 
 You do this embedding process during a phase called "Indexing." The reason why is to make sure that when you need to find specific information or details within your larger document, the computer can do so swiftly and accurately.
+
+# Project - Summarize private documents using RAG, LangChain, and LLMs
+I am beginning my journey with Summarize Private Documents Using RAG, LangChain, and LLMs project in which I learned how to load documents and then split and embed private documents for efficient processing. This foundational project introduces secure document summarization using advanced LLMs and demonstrates how to create a chatbot capable of retrieving key information while maintaining data privacy. Here I used Use Llama 3.3 (on IBM watsonx.ai), LangChain, and RAG to enable LLMs to retrieve information from our own private document.
